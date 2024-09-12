@@ -14,3 +14,6 @@ Run this command to perform the bulk action:
 ```js
 node index.js
 ```
+
+
+Kindly reach out if you want to make this project better <3
